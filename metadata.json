@@ -1,0 +1,6 @@
+{
+  "name": "IntelliReport AI - Report Generation & RAG Platform",
+  "description": "Production-grade multi-agent RAG backend and report generation platform powered by Google Gemini, pgvector, FastAPI, and modular AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
